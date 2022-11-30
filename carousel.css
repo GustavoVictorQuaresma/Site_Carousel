@@ -57,6 +57,9 @@ body {
   letter-spacing: -.05rem;
 }
 
+.fa-brands {
+	color:rgb(216 45 117);
+}
 /* rtl:end:remove */
 
 /* RESPONSIVE CSS
