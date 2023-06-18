@@ -1,4 +1,4 @@
-## Site de Vendas de Computadores - Carousel
+## Site de Vendas de Computadores - Carousel ![Ícone do Carousel Bootstrap](https://img.icons8.com/?size=30&id=84710&format=png)
 
 Este é o código HTML de um site de vendas de computadores com um carousel. O site é voltado para a venda de PCs gamers e utiliza o framework Bootstrap 5.2.3 para o desenvolvimento.
 
